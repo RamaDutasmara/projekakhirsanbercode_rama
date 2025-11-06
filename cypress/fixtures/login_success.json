@@ -1,1 +1,9 @@
+{
+  "token": "fake-jwt-token",
+  "user": {
+    "id": 1,
+    "username": "Admin",
+    "role": "Administrator"
+  }
+}
 
